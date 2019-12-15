@@ -1,5 +1,8 @@
 Kindheit | Siemens Mobility GmbH
 
+![alt text](https://github.com/PascalH91/kindheit/blob/master/public/images/Siemens_Kindheit2)
+
+
 Bright, child-friendly designed Web-app for kids with accounts for children and parents, a
 handful of educational games and guided instructions to practice handy and cognitive skills.
 
