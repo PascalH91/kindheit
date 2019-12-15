@@ -1,4 +1,4 @@
-Kindheit | Siemens Mobility GmbH
+# Kindheit | Siemens Mobility GmbH
 
 ![alt text](https://github.com/PascalH91/kindheit/blob/master/public/images/kindheit.jpg)
 
